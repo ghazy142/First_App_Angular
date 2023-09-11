@@ -1,0 +1,15 @@
+section {
+    background-color: #1ABC9C;
+    height: 100vh;
+  }
+  .about h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color:white;
+  }
+  .about-info p {
+    color: white;
+    width: 85%;
+    margin: auto;
+    padding: 10px;
+  }
